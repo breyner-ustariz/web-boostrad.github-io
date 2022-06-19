@@ -35,6 +35,5 @@ footer {
       background: url(../img/fondofooter.jpg) no-repeat;
       background-size: cover;      
 }
-textarea {
-     width: 100%;
+textarea {width:100%;
 }
