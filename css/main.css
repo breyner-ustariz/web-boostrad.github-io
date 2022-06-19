@@ -1,0 +1,40 @@
+body {
+      
+      font-family: 'IBM Plex Serif', serif;
+}
+#header {
+      margin-top: 100px;
+}
+a  {  font-weight: bold;
+      font-size: 1.2em;
+      color: rgb(44, 43, 43);
+}
+.navbar-brand {
+      margin-top: -15px;
+      font-style: italic;
+      font-family: Arial, Helvetica, sans-serif;
+      font-weight: bold;
+      font-size: 1.6em;
+      color: #6a6a6a;
+}
+.navbar-brand span {
+      font-size: 2em;
+}
+
+#testimonio {
+      padding: 50px 0 30px 0;
+      text-align: center;
+      background-color: #e5e5e5;
+      margin-top: 5
+      40px;
+}
+
+footer {
+      margin-top: -50px;
+      height: 350px;
+      background: url(../img/fondofooter.jpg) no-repeat;
+      background-size: cover;      
+}
+textarea {
+     width: 100%;
+}
